@@ -32,3 +32,25 @@ h3{
 a{
     text-decoration: none;
 }
+
+.right-body,.left-body{
+    display:  inline-block;
+    width: 500px;
+    height: auto;
+}
+
+.left-body{
+    padding: 30px 0 auto 0;
+}
+
+.but {
+    background-color: brown;
+    border-radius: 50%;
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+    font-size: 34px;
+    
+}
+
+
